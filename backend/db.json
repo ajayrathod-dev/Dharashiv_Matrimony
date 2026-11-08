@@ -1,0 +1,883 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "demo@dharashiv.com",
+      "password": "demo123",
+      "profileId": "P001",
+      "name": "Rahul Patil",
+      "gender": "Male",
+      "dob": "1995-03-15",
+      "age": 29,
+      "religion": "Hindu",
+      "caste": "Maratha",
+      "subCaste": "Patil",
+      "motherTongue": "Marathi",
+      "maritalStatus": "Never Married",
+      "height": "5'10\"",
+      "heightCm": 177,
+      "weight": "72 kg",
+      "bodyType": "Athletic",
+      "complexion": "Fair",
+      "physicalStatus": "Normal",
+      "diet": "Non-Vegetarian",
+      "smoking": "No",
+      "drinking": "No",
+      "hobbies": [
+        "Reading",
+        "Travelling",
+        "Cricket"
+      ],
+      "aboutMe": "I am a software engineer based in Pune. I love travelling and spending time with family. Looking for a life partner who shares similar values.",
+      "education": "B.E. Computer Engineering",
+      "educationDetail": "Pune University",
+      "occupation": "Software Engineer",
+      "employer": "TCS",
+      "income": "10-15 Lakhs",
+      "workLocation": "Pune",
+      "nativePlace": "Dharashiv",
+      "livingIn": "Pune",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+      "photos": [
+        "https://randomuser.me/api/portraits/men/32.jpg"
+      ],
+      "profileCompleteness": 85,
+      "isPremium": true,
+      "isVerified": true,
+      "isOnline": true,
+      "lastActive": "2026-11-08T20:00:00Z",
+      "memberSince": "2026-01-15",
+      "partnerPreferences": {
+        "ageMin": 24,
+        "ageMax": 30,
+        "heightMin": "5'0\"",
+        "heightMax": "5'8\"",
+        "religion": [
+          "Hindu"
+        ],
+        "caste": [
+          "Any"
+        ],
+        "maritalStatus": [
+          "Never Married"
+        ],
+        "education": [
+          "Any Graduate",
+          "Post Graduate"
+        ],
+        "occupation": [
+          "Any"
+        ],
+        "income": "Any",
+        "country": "India",
+        "state": [
+          "Maharashtra"
+        ],
+        "diet": [
+          "Any"
+        ],
+        "smoking": "No",
+        "drinking": "No"
+      },
+      "familyDetails": {
+        "fatherName": "Suresh Patil",
+        "fatherOccupation": "Retired Government Employee",
+        "motherName": "Sunanda Patil",
+        "motherOccupation": "Homemaker",
+        "siblings": "1 Sister (Married)",
+        "familyType": "Nuclear",
+        "familyStatus": "Middle Class",
+        "familyValues": "Traditional"
+      },
+      "contactInfo": {
+        "phone": "9876543210",
+        "alternatePhone": "",
+        "address": "Flat 302, Sunrise Apartments, Kothrud",
+        "pincode": "411038"
+      }
+    },
+    {
+      "id": "2",
+      "email": "priya@dharashiv.com",
+      "password": "demo123",
+      "profileId": "P002",
+      "name": "Priya Deshmukh",
+      "gender": "Female",
+      "dob": "1997-07-22",
+      "age": 27,
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "subCaste": "Deshastha",
+      "motherTongue": "Marathi",
+      "maritalStatus": "Never Married",
+      "height": "5'4\"",
+      "heightCm": 163,
+      "weight": "55 kg",
+      "bodyType": "Slim",
+      "complexion": "Very Fair",
+      "physicalStatus": "Normal",
+      "diet": "Vegetarian",
+      "smoking": "No",
+      "drinking": "No",
+      "hobbies": [
+        "Cooking",
+        "Dancing",
+        "Reading"
+      ],
+      "aboutMe": "A cheerful and family-oriented person. Working as a doctor in Aurangabad. Love cooking and classical dance.",
+      "education": "MBBS",
+      "educationDetail": "Government Medical College, Aurangabad",
+      "occupation": "Doctor",
+      "employer": "Government Hospital",
+      "income": "10-15 Lakhs",
+      "workLocation": "Aurangabad",
+      "nativePlace": "Dharashiv",
+      "livingIn": "Aurangabad",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Aurangabad",
+      "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+      "photos": [
+        "https://randomuser.me/api/portraits/women/44.jpg"
+      ],
+      "profileCompleteness": 90,
+      "isPremium": false,
+      "isVerified": true,
+      "isOnline": false,
+      "lastActive": "2026-11-08T18:00:00Z",
+      "memberSince": "2026-02-10",
+      "partnerPreferences": {
+        "ageMin": 28,
+        "ageMax": 35,
+        "heightMin": "5'7\"",
+        "heightMax": "6'2\"",
+        "religion": [
+          "Hindu"
+        ],
+        "caste": [
+          "Any"
+        ],
+        "maritalStatus": [
+          "Never Married"
+        ],
+        "education": [
+          "Any Graduate",
+          "Post Graduate",
+          "Professional Degree"
+        ],
+        "occupation": [
+          "Any"
+        ],
+        "income": "Any",
+        "country": "India",
+        "state": [
+          "Maharashtra",
+          "Any"
+        ],
+        "diet": [
+          "Any"
+        ],
+        "smoking": "No",
+        "drinking": "No"
+      },
+      "familyDetails": {
+        "fatherName": "Ramesh Deshmukh",
+        "fatherOccupation": "Businessman",
+        "motherName": "Lata Deshmukh",
+        "motherOccupation": "Teacher",
+        "siblings": "1 Brother (Unmarried)",
+        "familyType": "Joint",
+        "familyStatus": "Upper Middle Class",
+        "familyValues": "Moderate"
+      },
+      "contactInfo": {
+        "phone": "9876543211",
+        "alternatePhone": "",
+        "address": "12, Samarth Colony, Cidco",
+        "pincode": "431003"
+      }
+    },
+    {
+      "id": "3",
+      "email": "amit@dharashiv.com",
+      "password": "demo123",
+      "profileId": "P003",
+      "name": "Amit Shinde",
+      "gender": "Male",
+      "dob": "1993-11-05",
+      "age": 31,
+      "religion": "Hindu",
+      "caste": "Maratha",
+      "subCaste": "Shinde",
+      "motherTongue": "Marathi",
+      "maritalStatus": "Never Married",
+      "height": "5'8\"",
+      "heightCm": 172,
+      "weight": "75 kg",
+      "bodyType": "Average",
+      "complexion": "Wheatish",
+      "physicalStatus": "Normal",
+      "diet": "Non-Vegetarian",
+      "smoking": "No",
+      "drinking": "Occasionally",
+      "hobbies": [
+        "Music",
+        "Fitness",
+        "Movies"
+      ],
+      "aboutMe": "Civil Engineer working in Mumbai. Fun-loving and adventure seeker. Family values are important to me.",
+      "education": "B.E. Civil Engineering",
+      "educationDetail": "VJTI Mumbai",
+      "occupation": "Civil Engineer",
+      "employer": "L&T Construction",
+      "income": "8-10 Lakhs",
+      "workLocation": "Mumbai",
+      "nativePlace": "Dharashiv",
+      "livingIn": "Mumbai",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "photo": "https://randomuser.me/api/portraits/men/55.jpg",
+      "photos": [
+        "https://randomuser.me/api/portraits/men/55.jpg"
+      ],
+      "profileCompleteness": 75,
+      "isPremium": false,
+      "isVerified": false,
+      "isOnline": true,
+      "lastActive": "2026-11-08T21:00:00Z",
+      "memberSince": "2026-03-20",
+      "partnerPreferences": {
+        "ageMin": 25,
+        "ageMax": 32,
+        "heightMin": "5'0\"",
+        "heightMax": "5'7\"",
+        "religion": [
+          "Hindu"
+        ],
+        "caste": [
+          "Any"
+        ],
+        "maritalStatus": [
+          "Never Married"
+        ],
+        "education": [
+          "Any Graduate"
+        ],
+        "occupation": [
+          "Any"
+        ],
+        "income": "Any",
+        "country": "India",
+        "state": [
+          "Maharashtra"
+        ],
+        "diet": [
+          "Any"
+        ],
+        "smoking": "No",
+        "drinking": "No"
+      },
+      "familyDetails": {
+        "fatherName": "Balasaheb Shinde",
+        "fatherOccupation": "Farmer",
+        "motherName": "Vandana Shinde",
+        "motherOccupation": "Homemaker",
+        "siblings": "2 Sisters (Both Married)",
+        "familyType": "Nuclear",
+        "familyStatus": "Middle Class",
+        "familyValues": "Traditional"
+      },
+      "contactInfo": {
+        "phone": "9876543212",
+        "alternatePhone": "",
+        "address": "Room 204, Workers Colony, Andheri East",
+        "pincode": "400069"
+      }
+    },
+    {
+      "id": "4",
+      "email": "sneha@dharashiv.com",
+      "password": "demo123",
+      "profileId": "P004",
+      "name": "Sneha Kulkarni",
+      "gender": "Female",
+      "dob": "1998-04-10",
+      "age": 26,
+      "religion": "Hindu",
+      "caste": "Brahmin",
+      "subCaste": "Konkanastha",
+      "motherTongue": "Marathi",
+      "maritalStatus": "Never Married",
+      "height": "5'3\"",
+      "heightCm": 160,
+      "weight": "52 kg",
+      "bodyType": "Slim",
+      "complexion": "Fair",
+      "physicalStatus": "Normal",
+      "diet": "Vegetarian",
+      "smoking": "No",
+      "drinking": "No",
+      "hobbies": [
+        "Painting",
+        "Yoga",
+        "Gardening"
+      ],
+      "aboutMe": "Software developer by profession, artist by passion. I believe in simple living and high thinking. Looking for a compatible, understanding life partner.",
+      "education": "M.Sc. Computer Science",
+      "educationDetail": "Pune University",
+      "occupation": "Software Developer",
+      "employer": "Infosys",
+      "income": "8-10 Lakhs",
+      "workLocation": "Pune",
+      "nativePlace": "Dharashiv",
+      "livingIn": "Pune",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "photo": "https://randomuser.me/api/portraits/women/22.jpg",
+      "photos": [
+        "https://randomuser.me/api/portraits/women/22.jpg"
+      ],
+      "profileCompleteness": 80,
+      "isPremium": true,
+      "isVerified": true,
+      "isOnline": false,
+      "lastActive": "2026-11-08T17:00:00Z",
+      "memberSince": "2026-04-05",
+      "partnerPreferences": {
+        "ageMin": 27,
+        "ageMax": 35,
+        "heightMin": "5'7\"",
+        "heightMax": "6'1\"",
+        "religion": [
+          "Hindu"
+        ],
+        "caste": [
+          "Any"
+        ],
+        "maritalStatus": [
+          "Never Married"
+        ],
+        "education": [
+          "Any Graduate",
+          "Post Graduate"
+        ],
+        "occupation": [
+          "Any"
+        ],
+        "income": "Any",
+        "country": "India",
+        "state": [
+          "Maharashtra"
+        ],
+        "diet": [
+          "Vegetarian"
+        ],
+        "smoking": "No",
+        "drinking": "No"
+      },
+      "familyDetails": {
+        "fatherName": "Sunil Kulkarni",
+        "fatherOccupation": "Professor",
+        "motherName": "Meena Kulkarni",
+        "motherOccupation": "Homemaker",
+        "siblings": "1 Brother (Unmarried)",
+        "familyType": "Nuclear",
+        "familyStatus": "Middle Class",
+        "familyValues": "Moderate"
+      },
+      "contactInfo": {
+        "phone": "9876543213",
+        "alternatePhone": "",
+        "address": "Flat 101, Greenview Society, Wakad",
+        "pincode": "411057"
+      }
+    },
+    {
+      "id": "5",
+      "email": "vijay@dharashiv.com",
+      "password": "demo123",
+      "profileId": "P005",
+      "name": "Vijay More",
+      "gender": "Male",
+      "dob": "1992-08-20",
+      "age": 32,
+      "religion": "Hindu",
+      "caste": "OBC",
+      "subCaste": "More",
+      "motherTongue": "Marathi",
+      "maritalStatus": "Divorced",
+      "height": "5'9\"",
+      "heightCm": 175,
+      "weight": "80 kg",
+      "bodyType": "Heavy",
+      "complexion": "Wheatish Brown",
+      "physicalStatus": "Normal",
+      "diet": "Non-Vegetarian",
+      "smoking": "No",
+      "drinking": "No",
+      "hobbies": [
+        "Sports",
+        "Travel",
+        "Photography"
+      ],
+      "aboutMe": "Looking for a fresh start. I am a businessman based in Nashik. Family oriented, fun to be with.",
+      "education": "B.Com",
+      "educationDetail": "Nashik University",
+      "occupation": "Businessman",
+      "employer": "Self Employed",
+      "income": "15-20 Lakhs",
+      "workLocation": "Nashik",
+      "nativePlace": "Dharashiv",
+      "livingIn": "Nashik",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "photo": "https://randomuser.me/api/portraits/men/41.jpg",
+      "photos": [
+        "https://randomuser.me/api/portraits/men/41.jpg"
+      ],
+      "profileCompleteness": 70,
+      "isPremium": true,
+      "isVerified": true,
+      "isOnline": false,
+      "lastActive": "2026-11-07T12:00:00Z",
+      "memberSince": "2026-05-10",
+      "partnerPreferences": {
+        "ageMin": 25,
+        "ageMax": 35,
+        "heightMin": "5'0\"",
+        "heightMax": "5'8\"",
+        "religion": [
+          "Hindu"
+        ],
+        "caste": [
+          "Any"
+        ],
+        "maritalStatus": [
+          "Never Married",
+          "Divorced"
+        ],
+        "education": [
+          "Any"
+        ],
+        "occupation": [
+          "Any"
+        ],
+        "income": "Any",
+        "country": "India",
+        "state": [
+          "Maharashtra"
+        ],
+        "diet": [
+          "Any"
+        ],
+        "smoking": "No",
+        "drinking": "No"
+      },
+      "familyDetails": {
+        "fatherName": "Nana More",
+        "fatherOccupation": "Retired",
+        "motherName": "Laxmi More",
+        "motherOccupation": "Homemaker",
+        "siblings": "2 Brothers",
+        "familyType": "Joint",
+        "familyStatus": "Upper Middle Class",
+        "familyValues": "Traditional"
+      },
+      "contactInfo": {
+        "phone": "9876543214",
+        "alternatePhone": "",
+        "address": "Plot 15, Panchavati Colony",
+        "pincode": "422003"
+      }
+    },
+    {
+      "id": "6",
+      "email": "kavita@dharashiv.com",
+      "password": "demo123",
+      "profileId": "P006",
+      "name": "Kavita Jadhav",
+      "gender": "Female",
+      "dob": "1996-01-30",
+      "age": 28,
+      "religion": "Hindu",
+      "caste": "Maratha",
+      "subCaste": "Jadhav",
+      "motherTongue": "Marathi",
+      "maritalStatus": "Never Married",
+      "height": "5'5\"",
+      "heightCm": 165,
+      "weight": "60 kg",
+      "bodyType": "Average",
+      "complexion": "Fair",
+      "physicalStatus": "Normal",
+      "diet": "Non-Vegetarian",
+      "smoking": "No",
+      "drinking": "No",
+      "hobbies": [
+        "Music",
+        "Travel",
+        "Reading"
+      ],
+      "aboutMe": "Teacher by profession, music lover by heart. I am from Kolhapur but currently working in Nashik. Looking for a simple, caring partner.",
+      "education": "M.A. Music",
+      "educationDetail": "Shivaji University, Kolhapur",
+      "occupation": "Teacher",
+      "employer": "Government School",
+      "income": "4-6 Lakhs",
+      "workLocation": "Nashik",
+      "nativePlace": "Dharashiv",
+      "livingIn": "Nashik",
+      "country": "India",
+      "state": "Maharashtra",
+      "city": "Nashik",
+      "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+      "photos": [
+        "https://randomuser.me/api/portraits/women/68.jpg"
+      ],
+      "profileCompleteness": 85,
+      "isPremium": false,
+      "isVerified": false,
+      "isOnline": true,
+      "lastActive": "2026-11-08T21:30:00Z",
+      "memberSince": "2026-06-15",
+      "partnerPreferences": {
+        "ageMin": 29,
+        "ageMax": 36,
+        "heightMin": "5'7\"",
+        "heightMax": "6'0\"",
+        "religion": [
+          "Hindu"
+        ],
+        "caste": [
+          "Any"
+        ],
+        "maritalStatus": [
+          "Never Married"
+        ],
+        "education": [
+          "Any Graduate",
+          "Post Graduate"
+        ],
+        "occupation": [
+          "Any"
+        ],
+        "income": "Any",
+        "country": "India",
+        "state": [
+          "Maharashtra"
+        ],
+        "diet": [
+          "Any"
+        ],
+        "smoking": "No",
+        "drinking": "No"
+      },
+      "familyDetails": {
+        "fatherName": "Pandurang Jadhav",
+        "fatherOccupation": "Farmer",
+        "motherName": "Sulabha Jadhav",
+        "motherOccupation": "Homemaker",
+        "siblings": "2 Brothers (Both Married)",
+        "familyType": "Joint",
+        "familyStatus": "Middle Class",
+        "familyValues": "Traditional"
+      },
+      "contactInfo": {
+        "phone": "9876543215",
+        "alternatePhone": "",
+        "address": "17, Shivneri Colony, Nasik Road",
+        "pincode": "422101"
+      }
+    }
+  ],
+  "interests": [
+    {
+      "id": "1",
+      "fromUserId": "1",
+      "toUserId": "2",
+      "status": "pending",
+      "message": "I liked your profile. Would love to connect!",
+      "createdAt": "2026-11-01T10:00:00Z",
+      "updatedAt": "2026-11-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "fromUserId": "2",
+      "toUserId": "1",
+      "status": "accepted",
+      "message": "Your profile looks great!",
+      "createdAt": "2026-11-02T12:00:00Z",
+      "updatedAt": "2026-11-03T09:00:00Z"
+    },
+    {
+      "id": "3",
+      "fromUserId": "3",
+      "toUserId": "4",
+      "status": "pending",
+      "message": "Hello! I am interested in your profile.",
+      "createdAt": "2026-11-05T14:00:00Z",
+      "updatedAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "4",
+      "fromUserId": "4",
+      "toUserId": "1",
+      "status": "declined",
+      "message": "Looking for connection.",
+      "createdAt": "2026-11-06T11:00:00Z",
+      "updatedAt": "2026-11-07T10:00:00Z"
+    },
+    {
+      "fromUserId": "1",
+      "toUserId": "2",
+      "status": "pending",
+      "message": "I am interested in your profile.",
+      "createdAt": "2026-11-08T16:35:48.288Z",
+      "updatedAt": "2026-11-08T16:35:48.289Z",
+      "id": "IT9CU0V"
+    },
+    {
+      "fromUserId": "1",
+      "toUserId": "4",
+      "status": "pending",
+      "message": "I am interested in your profile.",
+      "createdAt": "2026-11-08T16:35:50.799Z",
+      "updatedAt": "2026-11-08T16:35:50.800Z",
+      "id": "NXIiOuT"
+    }
+  ],
+  "shortlists": [
+    {
+      "id": "1",
+      "userId": "1",
+      "shortlistedUserId": "2",
+      "createdAt": "2026-11-01T08:00:00Z"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "shortlistedUserId": "4",
+      "createdAt": "2026-11-03T16:00:00Z"
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "shortlistedUserId": "1",
+      "createdAt": "2026-11-02T09:00:00Z"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "1",
+      "participants": [
+        "1",
+        "2"
+      ],
+      "lastMessage": "Thank you for accepting my interest!",
+      "lastMessageAt": "2026-11-08T18:00:00Z",
+      "createdAt": "2026-11-03T10:00:00Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "conversationId": "1",
+      "senderId": "1",
+      "receiverId": "2",
+      "text": "Hello Priya! I saw your profile and found it very interesting.",
+      "isRead": true,
+      "createdAt": "2026-11-03T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "conversationId": "1",
+      "senderId": "2",
+      "receiverId": "1",
+      "text": "Hi Rahul! Thank you. Your profile is also nice.",
+      "isRead": true,
+      "createdAt": "2026-11-03T10:30:00Z"
+    },
+    {
+      "id": "3",
+      "conversationId": "1",
+      "senderId": "1",
+      "receiverId": "2",
+      "text": "Can we connect on a call sometime?",
+      "isRead": true,
+      "createdAt": "2026-11-08T17:45:00Z"
+    },
+    {
+      "id": "4",
+      "conversationId": "1",
+      "senderId": "2",
+      "receiverId": "1",
+      "text": "Thank you for accepting my interest!",
+      "isRead": false,
+      "createdAt": "2026-11-08T18:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "userId": "1",
+      "type": "interest_received",
+      "message": "Priya Deshmukh has sent you an interest!",
+      "isRead": false,
+      "fromUserId": "2",
+      "createdAt": "2026-11-02T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "userId": "1",
+      "type": "profile_view",
+      "message": "Sneha Kulkarni viewed your profile",
+      "isRead": true,
+      "fromUserId": "4",
+      "createdAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "3",
+      "userId": "1",
+      "type": "interest_accepted",
+      "message": "Priya Deshmukh accepted your interest!",
+      "isRead": false,
+      "fromUserId": "2",
+      "createdAt": "2026-11-03T09:00:00Z"
+    }
+  ],
+  "profileViews": [
+    {
+      "id": "1",
+      "viewerId": "2",
+      "viewedId": "1",
+      "createdAt": "2026-11-05T14:00:00Z"
+    },
+    {
+      "id": "2",
+      "viewerId": "4",
+      "viewedId": "1",
+      "createdAt": "2026-11-06T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "viewerId": "3",
+      "viewedId": "1",
+      "createdAt": "2026-11-07T16:00:00Z"
+    },
+    {
+      "viewerId": "1",
+      "viewedId": "6",
+      "createdAt": "2026-11-08T16:35:57.149Z",
+      "id": "D5PVFqa"
+    },
+    {
+      "viewerId": "1",
+      "viewedId": "6",
+      "createdAt": "2026-11-08T16:35:57.166Z",
+      "id": "2oRkWsU"
+    }
+  ],
+  "plans": [
+    {
+      "id": "1",
+      "name": "Silver",
+      "price": 1499,
+      "duration": "3 Months",
+      "features": [
+        "View 50 contact numbers/month",
+        "Send unlimited interests",
+        "Chat with matches",
+        "Advanced search filters",
+        "Profile highlighted in search"
+      ],
+      "isPopular": false,
+      "color": "gray"
+    },
+    {
+      "id": "2",
+      "name": "Gold",
+      "price": 2999,
+      "duration": "6 Months",
+      "features": [
+        "View 100 contact numbers/month",
+        "Send unlimited interests",
+        "Chat with matches",
+        "Advanced search filters",
+        "Profile highlighted in search",
+        "Priority customer support",
+        "Relationship manager"
+      ],
+      "isPopular": true,
+      "color": "yellow"
+    },
+    {
+      "id": "3",
+      "name": "Diamond",
+      "price": 4999,
+      "duration": "12 Months",
+      "features": [
+        "View unlimited contact numbers",
+        "Send unlimited interests",
+        "Chat with matches",
+        "Advanced search filters",
+        "Profile highlighted in search",
+        "Priority customer support",
+        "Dedicated relationship manager",
+        "Profile verification badge",
+        "Top placement in search results"
+      ],
+      "isPopular": false,
+      "color": "blue"
+    }
+  ],
+  "subscriptions": [
+    {
+      "id": "1",
+      "userId": "1",
+      "planId": "2",
+      "planName": "Gold",
+      "startDate": "2026-10-01",
+      "endDate": "2027-04-01",
+      "status": "active",
+      "amount": 2999
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "husbandName": "Rohit Pawar",
+      "wifeName": "Anjali Pawar",
+      "husbandPhoto": "https://randomuser.me/api/portraits/men/10.jpg",
+      "wifePhoto": "https://randomuser.me/api/portraits/women/10.jpg",
+      "message": "We found each other on Dharashiv Matrimony. The platform made it easy to connect with like-minded people. We got married in 2025 and are very happy!",
+      "marriedDate": "February 2025",
+      "location": "Dharashiv"
+    },
+    {
+      "id": "2",
+      "husbandName": "Sachin Bhosale",
+      "wifeName": "Pooja Bhosale",
+      "husbandPhoto": "https://randomuser.me/api/portraits/men/20.jpg",
+      "wifePhoto": "https://randomuser.me/api/portraits/women/20.jpg",
+      "message": "Thank you Dharashiv Matrimony! We were connected through this platform and our families got along so well. Very happy with our decision!",
+      "marriedDate": "December 2024",
+      "location": "Latur"
+    },
+    {
+      "id": "3",
+      "husbandName": "Nitin Mane",
+      "wifeName": "Rutuja Mane",
+      "husbandPhoto": "https://randomuser.me/api/portraits/men/30.jpg",
+      "wifePhoto": "https://randomuser.me/api/portraits/women/30.jpg",
+      "message": "The search filters on Dharashiv Matrimony helped us find each other quickly. Great platform for Marathwada community members!",
+      "marriedDate": "March 2025",
+      "location": "Osmanabad"
+    }
+  ]
+}

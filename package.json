@@ -1,0 +1,11 @@
+{
+  "name": "dharashiv-matrimony",
+  "version": "1.0.0",
+  "description": "Dharashiv Matrimony - Complete Marathi Matrimonial Portal (React + JSON Server)",
+  "scripts": {
+    "start:backend": "cd backend && node server.js",
+    "start:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
+
